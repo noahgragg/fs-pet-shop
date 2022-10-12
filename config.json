@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "connectionString":"postgresql://postgres:docker@localhost:5432/pets"
+    },
+
+    "test":{
+        "connectionString":"postgresql://postgres:docker@localhost:5432/pets"
+    }
+}
